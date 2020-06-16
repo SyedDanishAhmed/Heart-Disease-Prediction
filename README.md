@@ -3,13 +3,9 @@ Develop a classification model for predicting whether a patient is likely to hav
 
 ## Introduction
 
-<p>&nbsp;</p>
-
 ### What is a Heart Disease
 
 The term “heart disease” refers to several types of heart conditions. The medical definition includes any disorder that affects the heart. Sometimes the term "heart disease" is used narrowly and incorrectly as a synonym for coronary artery disease. Heart disease is synonymous with cardiac disease but not with cardiovascular disease which is any disease of the heart or blood vessels.
-
-<p>&nbsp;</p>
 
 ### Facts about Heart Diseases
 
@@ -21,12 +17,8 @@ The term “heart disease” refers to several types of heart conditions. The me
 
 Many forms of heart disease can be prevented or treated with healthy lifestyle choices. Here we will perform an analysis to understand the health metrics that are associated with the presence and absence of heart diseases. 
 
-<p>&nbsp;</p>
-
 ### Kaggle Heart Diseases Dataset
 The dataset on which we will be carrying out the analysis pertaining to heart diseases has been obtained from Kaggle - https://www.kaggle.com/ronitf/heart-disease-uci. The dataset contains various heart health metrics corresponding for individuals with and without a heart disease. All types of heart diseases are being considered as one. 
-
-<p>&nbsp;</p>
 
 ## Steps involved in this analysis are as below
 
@@ -40,15 +32,11 @@ The dataset on which we will be carrying out the analysis pertaining to heart di
 * Evaluating the improved model on unseen test data points
 * Generating conclusions from the analysis
 
-<p>&nbsp;</p>
-
 ## Objectives of the analysis
 
 Early action is important for averting potential risks posed by heart diseases. Hence it is important to be aware about the possibility of having a disease so that corrective actions can be taken before it is too late. 
 
 The objective of the analysis is thus to identify the health metrics associated with heart diseases and build a classification model to predict whether an individual with given health metrics is likely to have a heart disease or not. 
-
-<p>&nbsp;</p>
 
 ## Initial understanding of the underlying data
 
